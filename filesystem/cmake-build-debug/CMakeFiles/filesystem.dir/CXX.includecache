@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wocaibujiaoquanmei/iCloud 云盘（归档）/GitHub/lept_filesystem/filesystem/main.cpp
+iostream
+-
+
